@@ -41,4 +41,8 @@ The floor plan images and labels are loaded using the FloorplanSVG class from th
 
 The analysis results are stored in a pandas DataFrame, with the number of overlaps between each room type and icon class combination recorded. The DataFrame includes an "Image_idx" column to identify which image each row of data came from, as well as a "Room" column to identify which room type each row of data corresponds to.
 
+![room_counts dataframe](../images/room_counts.png)
+
 The code also includes error handling for polygons with less than four vertices, with any errors recorded in a separate DataFrame named "errors".
+
+
