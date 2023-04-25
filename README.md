@@ -2,4 +2,5 @@ A graph completion model that can accurately predict the internal layout of a bu
 
 1. floorplans_to_counts.ipynb
 2. dataset_cleaning.ipynb
+3. gnn_input.ipynb
 
