@@ -1,7 +1,5 @@
-A graph completion model that can accurately predict the internal layout of a building from its exterior features, such as doors, windows.
+In recent years, graph-based machine learning techniques have gained popularity due to their ability to represent complex relationships and dependencies between data points. In this project, we will explore the use of graph completion techniques to predict the internal configurations of buildings using only external information. By leveraging the power of graph-based models, we aim to achieve more accurate predictions compared to traditional modeling techniques.
 
-1. floorplans_to_counts.ipynb
-2. dataset_cleaning.ipynb
-3. gnn_input.ipynb
-4. basic_gnn.ipynb
-5. baseline_prediction.ipynb
+Moreover, this project will contribute to the broader field of machine learning by evaluating the effectiveness of graph-based models for node classification tasks. Node classification refers to the problem of assigning labels to nodes in a graph based on their attributes and the relationships between them. By investigating the performance of graph-based models in comparison to traditional machine learning models, we can gain insights into the strengths and weaknesses of different techniques for node classification tasks.
+
+Finally, the ability to predict the internal layout of buildings using only external information can have significant benefits for firefighters, special forces, and SWAT teams. One of the primary advantages is improved situational awareness, which can provide a better understanding of the building's layout, potential hazards, and areas of interest. This knowledge can help responders make better decisions and act more effectively in high-pressure situations, potentially improving the safety of everyone involved.
